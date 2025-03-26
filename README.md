@@ -4,7 +4,7 @@
 ![Coding - Pixel Jeff](https://github.com/user-attachments/assets/1accc015-be78-441a-bd7d-c34ed296375e)
 
 
-<br>
+
 <h3 align="left"> 💕Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pratyaksh-soni-823a74210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratyaksh-soni-823a74210/" height="30" width="40" /></a>
