@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Pratyaksh Soni</h1>
+<h1 align="center">Hey there, it's Pratyaksh !</h1>
 <h3 align="center">"I am a Machine Learning Developer with a passion for building intelligent systems and solving complex problems with data."</h3>
 
 ![Coding - Pixel Jeff](https://github.com/user-attachments/assets/1accc015-be78-441a-bd7d-c34ed296375e)
